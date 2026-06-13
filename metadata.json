@@ -1,0 +1,6 @@
+{
+  "name": "Lịch Báo Giảng Tự Động",
+  "description": "Hệ thống tự động phát sinh lịch báo giảng chuẩn 2 trang (Chính khóa & Tăng cường) cho Trường TH, THCS&THPT THSP Đại học Vinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
